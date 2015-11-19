@@ -1,0 +1,29 @@
+p {color:black;
+   padding-left:25px; font-weight:bold ;
+}
+
+
+H1 {color:white;
+    background-color:#558CD5;
+    font-size:60px ;
+    font-weight:bold ;
+    text-align:center;    
+}
+
+h2 {color:#558CD5;
+    padding-left:25px;
+    text-decoration:underline ;
+}
+
+h3 {color:black;
+    padding-left:30px;
+}
+
+ul {color:black;
+    margin:+20px;
+}
+
+img {height:150px ; 
+     width:150px ; 
+     margin-left:+30px ;
+}
