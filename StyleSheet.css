@@ -1,18 +1,37 @@
+body {font-family:Arial ;
+}
+
+div {color:white ;
+    border-radius:20px;
+    background-color:#558CD5;
+    margin-top:5px;
+    margin-bottom:5px;
+    padding:5px;
+} 
+
+ div div  {color:red ;
+    border-radius:20px;
+    background-color:white;
+    margin-top:5px;
+    margin-bottom:5px;
+    padding:10px ;
+}
+
 p {color:black;
    padding-left:25px; font-weight:bold ;
 }
 
-
-H1 {color:white;
+H1 {color:white ;
+    border-radius:20px;
     background-color:#558CD5;
-    font-size:60px ;
+    font-size:55px ;
     font-weight:bold ;
     text-align:center;    
 }
 
-h2 {color:#558CD5;
+h2 {color:white;
     padding-left:25px;
-    text-decoration:underline ;
+    text-decoration:none ;
 }
 
 h3 {color:black;
@@ -25,5 +44,7 @@ ul {color:black;
 
 img {height:150px ; 
      width:150px ; 
+     text-align:right ;
      margin-left:+30px ;
+     float: right;
 }
